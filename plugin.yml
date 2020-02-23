@@ -108,5 +108,4 @@ permissions:
       factions.unclaim.all: {description: unclaim all faction land, default: true}
       factions.unsethome: {description: unset faction home, default: true}
       factions.unstuck: {description: teleport to nearest wilderness, default: true}
-      factions.version: {description: see plugin version, default: true}
       factions.help: {description: see list of avaliable sub-commands, default: true}
